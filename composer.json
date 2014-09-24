@@ -1,8 +1,19 @@
 {
+	"name": "javiernuber/the-game-of-live",
+	"description": "Implementing the game of Life",
+	"keywords": ["php", "life", "game"],
+	"authors": [
+		{
+			"name": "Fco Javier Núñez Berrocoso",
+			"email": "javiernuber@gmail.com"
+		}
+	],
     "require": {
-        "symfony/console": "v2.4.0",
-        "phpunit/phpunit": "3.7.*"
+        "symfony/console": "v2.4.0"
     },
+    "require_dev": {
+        "phpunit/phpunit": "3.7.*"
+    },    
     "autoload": {
         "psr-0": { "": "src/" }
     } 
