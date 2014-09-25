@@ -1,5 +1,5 @@
 {
-	"name": "javiernuber/the-game-of-live",
+	"name": "javiernuber/the-game-of-life",
 	"description": "Implementing the game of Life",
 	"keywords": ["php", "life", "game"],
 	"authors": [
